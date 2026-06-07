@@ -1,0 +1,1827 @@
+{
+  "name": "AI 服装电商主图提示词库 visuals",
+  "generatedAt": "2026-06-07T10:11:24.194Z",
+  "total": 260,
+  "visuals": [
+    {
+      "id": "ai-mens-fashion-001",
+      "slug": "ai-mens-fashion-001",
+      "title": "男装写真 AI 男装提示词 1",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-mens-fashion-001?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=clothing-ecommerce-main-image",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-mens-fashion/ai-mens-fashion-001/0.jpg"
+    },
+    {
+      "id": "ai-womens-fashion-001",
+      "slug": "ai-womens-fashion-001",
+      "title": "韩系温柔 AI 女装提示词 1",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-womens-fashion-001?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=clothing-ecommerce-main-image",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-womens-fashion/ai-womens-fashion-001/0-v2.png"
+    },
+    {
+      "id": "ai-kids-fashion-001",
+      "slug": "ai-kids-fashion-001",
+      "title": "男童穿搭 AI 童装提示词 1",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-kids-fashion-001?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=clothing-ecommerce-main-image",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-kids-fashion/ai-kids-fashion-001/0.png"
+    },
+    {
+      "id": "ai-mens-fashion-002",
+      "slug": "ai-mens-fashion-002",
+      "title": "AI 男装提示词 1",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-mens-fashion-002?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=clothing-ecommerce-main-image",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-mens-fashion/ai-mens-fashion-002/0.jpg"
+    },
+    {
+      "id": "ai-womens-fashion-002",
+      "slug": "ai-womens-fashion-002",
+      "title": "夏日海边温柔风 AI 女装提示词",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-womens-fashion-002?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=clothing-ecommerce-main-image",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-womens-fashion/ai-womens-fashion-002/0-v2.png"
+    },
+    {
+      "id": "ai-kids-fashion-002",
+      "slug": "ai-kids-fashion-002",
+      "title": "童装对镜自拍 AI 童装提示词 1",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-kids-fashion-002?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=clothing-ecommerce-main-image",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-kids-fashion/ai-kids-fashion-002/0.jpg"
+    },
+    {
+      "id": "ai-mens-fashion-003",
+      "slug": "ai-mens-fashion-003",
+      "title": "AI 男装提示词 2",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-mens-fashion-003?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=clothing-ecommerce-main-image",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-mens-fashion/ai-mens-fashion-003/0.jpg"
+    },
+    {
+      "id": "ai-womens-fashion-003",
+      "slug": "ai-womens-fashion-003",
+      "title": "秋日温柔 AI 女装提示词",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-womens-fashion-003?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=clothing-ecommerce-main-image",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-womens-fashion/ai-womens-fashion-003/0-v2.png"
+    },
+    {
+      "id": "ai-kids-fashion-003",
+      "slug": "ai-kids-fashion-003",
+      "title": "女童穿搭 AI 童装提示词 1",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-kids-fashion-003?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=clothing-ecommerce-main-image",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-kids-fashion/ai-kids-fashion-003/0.png"
+    },
+    {
+      "id": "ai-mens-fashion-004",
+      "slug": "ai-mens-fashion-004",
+      "title": "工装机能男装 AI 男装提示词 1",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-mens-fashion-004?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=clothing-ecommerce-main-image",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-mens-fashion/ai-mens-fashion-004/0.jpg"
+    },
+    {
+      "id": "ai-womens-fashion-004",
+      "slug": "ai-womens-fashion-004",
+      "title": "复古胶片风 AI 女装提示词",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-womens-fashion-004?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=clothing-ecommerce-main-image",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-womens-fashion/ai-womens-fashion-004/0-v2.png"
+    },
+    {
+      "id": "ai-kids-fashion-004",
+      "slug": "ai-kids-fashion-004",
+      "title": "女童穿搭 AI 童装提示词 2",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-kids-fashion-004?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=clothing-ecommerce-main-image",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-kids-fashion/ai-kids-fashion-004/0.jpg"
+    },
+    {
+      "id": "ai-mens-fashion-005",
+      "slug": "ai-mens-fashion-005",
+      "title": "男装店展示 AI 男装提示词 1",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-mens-fashion-005?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=clothing-ecommerce-main-image",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-mens-fashion/ai-mens-fashion-005/0.jpg"
+    },
+    {
+      "id": "ai-womens-fashion-005",
+      "slug": "ai-womens-fashion-005",
+      "title": "居家自拍大片 AI 女装提示词",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-womens-fashion-005?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=clothing-ecommerce-main-image",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-womens-fashion/ai-womens-fashion-005/0-v2.png"
+    },
+    {
+      "id": "ai-kids-fashion-005",
+      "slug": "ai-kids-fashion-005",
+      "title": "女童穿搭 AI 童装提示词 3",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-kids-fashion-005?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=clothing-ecommerce-main-image",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-kids-fashion/ai-kids-fashion-005/0.jpg"
+    },
+    {
+      "id": "ai-mens-fashion-006",
+      "slug": "ai-mens-fashion-006",
+      "title": "男装对镜自拍 AI 男装提示词 1",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-mens-fashion-006?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=clothing-ecommerce-main-image",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-mens-fashion/ai-mens-fashion-006/0.jpg"
+    },
+    {
+      "id": "ai-womens-fashion-006",
+      "slug": "ai-womens-fashion-006",
+      "title": "韩系闺蜜风 AI 女装提示词",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-womens-fashion-006?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=clothing-ecommerce-main-image",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-womens-fashion/ai-womens-fashion-006/0-v2.png"
+    },
+    {
+      "id": "ai-kids-fashion-006",
+      "slug": "ai-kids-fashion-006",
+      "title": "女童穿搭 AI 童装提示词 4",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-kids-fashion-006?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=clothing-ecommerce-main-image",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-kids-fashion/ai-kids-fashion-006/0.jpg"
+    },
+    {
+      "id": "ai-mens-fashion-007",
+      "slug": "ai-mens-fashion-007",
+      "title": "男装对镜自拍 AI 男装提示词 2",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-mens-fashion-007?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=clothing-ecommerce-main-image",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-mens-fashion/ai-mens-fashion-007/0.jpg"
+    },
+    {
+      "id": "ai-womens-fashion-007",
+      "slug": "ai-womens-fashion-007",
+      "title": "韩系温柔 AI 女装提示词 2",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-womens-fashion-007?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=clothing-ecommerce-main-image",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-womens-fashion/ai-womens-fashion-007/0-v2.png"
+    },
+    {
+      "id": "ai-kids-fashion-007",
+      "slug": "ai-kids-fashion-007",
+      "title": "女童穿搭 AI 童装提示词 5",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-kids-fashion-007?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=clothing-ecommerce-main-image",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-kids-fashion/ai-kids-fashion-007/0.jpg"
+    },
+    {
+      "id": "ai-mens-fashion-008",
+      "slug": "ai-mens-fashion-008",
+      "title": "男装对镜自拍 AI 男装提示词 3",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-mens-fashion-008?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=clothing-ecommerce-main-image",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-mens-fashion/ai-mens-fashion-008/0.jpg"
+    },
+    {
+      "id": "ai-womens-fashion-008",
+      "slug": "ai-womens-fashion-008",
+      "title": "画廊时尚大片 AI 女装提示词",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-womens-fashion-008?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=clothing-ecommerce-main-image",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-womens-fashion/ai-womens-fashion-008/0-v2.png"
+    },
+    {
+      "id": "ai-kids-fashion-008",
+      "slug": "ai-kids-fashion-008",
+      "title": "女童穿搭 AI 童装提示词 6",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-kids-fashion-008?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=clothing-ecommerce-main-image",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-kids-fashion/ai-kids-fashion-008/0.jpg"
+    },
+    {
+      "id": "ai-mens-fashion-009",
+      "slug": "ai-mens-fashion-009",
+      "title": "男装写真 AI 男装提示词 2",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-mens-fashion-009?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=clothing-ecommerce-main-image",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-mens-fashion/ai-mens-fashion-009/0.jpg"
+    },
+    {
+      "id": "ai-womens-fashion-009",
+      "slug": "ai-womens-fashion-009",
+      "title": "韩系街拍风 AI 女装提示词 1",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-womens-fashion-009?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=clothing-ecommerce-main-image",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-womens-fashion/ai-womens-fashion-009/0-v2.png"
+    },
+    {
+      "id": "ai-kids-fashion-009",
+      "slug": "ai-kids-fashion-009",
+      "title": "幼儿童装 AI 童装提示词 1",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-kids-fashion-009?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=clothing-ecommerce-main-image",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-kids-fashion/ai-kids-fashion-009/0.jpg"
+    },
+    {
+      "id": "ai-mens-fashion-010",
+      "slug": "ai-mens-fashion-010",
+      "title": "工装机能男装 AI 男装提示词 2",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-mens-fashion-010?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=clothing-ecommerce-main-image",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-mens-fashion/ai-mens-fashion-010/0.jpg"
+    },
+    {
+      "id": "ai-womens-fashion-010",
+      "slug": "ai-womens-fashion-010",
+      "title": "都市夜景时尚大片 AI 女装提示词",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-womens-fashion-010?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=clothing-ecommerce-main-image",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-womens-fashion/ai-womens-fashion-010/0-v2.png"
+    },
+    {
+      "id": "ai-kids-fashion-010",
+      "slug": "ai-kids-fashion-010",
+      "title": "童装对镜自拍 AI 童装提示词 2",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-kids-fashion-010?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=clothing-ecommerce-main-image",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-kids-fashion/ai-kids-fashion-010/0.jpg"
+    },
+    {
+      "id": "ai-mens-fashion-011",
+      "slug": "ai-mens-fashion-011",
+      "title": "男装街拍 AI 男装提示词 1",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-mens-fashion-011?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=clothing-ecommerce-main-image",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-mens-fashion/ai-mens-fashion-011/0.jpg"
+    },
+    {
+      "id": "ai-womens-fashion-011",
+      "slug": "ai-womens-fashion-011",
+      "title": "法式优雅钢琴写真 AI 女装提示词",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-womens-fashion-011?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=clothing-ecommerce-main-image",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-womens-fashion/ai-womens-fashion-011/0-v2.png"
+    },
+    {
+      "id": "ai-kids-fashion-011",
+      "slug": "ai-kids-fashion-011",
+      "title": "童装静物展示 AI 童装提示词 1",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-kids-fashion-011?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=clothing-ecommerce-main-image",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-kids-fashion/ai-kids-fashion-011/0.jpg"
+    },
+    {
+      "id": "ai-mens-fashion-012",
+      "slug": "ai-mens-fashion-012",
+      "title": "工装机能男装 AI 男装提示词 3",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-mens-fashion-012?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=clothing-ecommerce-main-image",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-mens-fashion/ai-mens-fashion-012/0.jpg"
+    },
+    {
+      "id": "ai-womens-fashion-012",
+      "slug": "ai-womens-fashion-012",
+      "title": "韩系街拍风 AI 女装提示词 2",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-womens-fashion-012?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=clothing-ecommerce-main-image",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-womens-fashion/ai-womens-fashion-012/0-v2.png"
+    },
+    {
+      "id": "ai-kids-fashion-012",
+      "slug": "ai-kids-fashion-012",
+      "title": "女童穿搭 AI 童装提示词 7",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-kids-fashion-012?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=clothing-ecommerce-main-image",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-kids-fashion/ai-kids-fashion-012/0.jpg"
+    },
+    {
+      "id": "ai-mens-fashion-013",
+      "slug": "ai-mens-fashion-013",
+      "title": "男装静物展示 AI 男装提示词 1",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-mens-fashion-013?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=clothing-ecommerce-main-image",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-mens-fashion/ai-mens-fashion-013/0.jpg"
+    },
+    {
+      "id": "ai-womens-fashion-013",
+      "slug": "ai-womens-fashion-013",
+      "title": "夏日清新写真 AI 女装提示词",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-womens-fashion-013?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=clothing-ecommerce-main-image",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-womens-fashion/ai-womens-fashion-013/0-v2.png"
+    },
+    {
+      "id": "ai-kids-fashion-013",
+      "slug": "ai-kids-fashion-013",
+      "title": "男童穿搭 AI 童装提示词 2",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-kids-fashion-013?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=clothing-ecommerce-main-image",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-kids-fashion/ai-kids-fashion-013/0.jpg"
+    },
+    {
+      "id": "ai-mens-fashion-014",
+      "slug": "ai-mens-fashion-014",
+      "title": "男装街拍 AI 男装提示词 2",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-mens-fashion-014?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=clothing-ecommerce-main-image",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-mens-fashion/ai-mens-fashion-014/0.jpg"
+    },
+    {
+      "id": "ai-womens-fashion-014",
+      "slug": "ai-womens-fashion-014",
+      "title": "通勤干练 AI 女装提示词",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-womens-fashion-014?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=clothing-ecommerce-main-image",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-womens-fashion/ai-womens-fashion-014/0-v2.png"
+    },
+    {
+      "id": "ai-kids-fashion-014",
+      "slug": "ai-kids-fashion-014",
+      "title": "童装店展示 AI 童装提示词 1",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-kids-fashion-014?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=clothing-ecommerce-main-image",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-kids-fashion/ai-kids-fashion-014/0.jpg"
+    },
+    {
+      "id": "ai-mens-fashion-015",
+      "slug": "ai-mens-fashion-015",
+      "title": "男装街拍 AI 男装提示词 3",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-mens-fashion-015?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=clothing-ecommerce-main-image",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-mens-fashion/ai-mens-fashion-015/0.jpg"
+    },
+    {
+      "id": "ai-womens-fashion-015",
+      "slug": "ai-womens-fashion-015",
+      "title": "甜美温柔 AI 女装提示词",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-womens-fashion-015?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=clothing-ecommerce-main-image",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-womens-fashion/ai-womens-fashion-015/0-v2.png"
+    },
+    {
+      "id": "ai-kids-fashion-016",
+      "slug": "ai-kids-fashion-016",
+      "title": "男童穿搭 AI 童装提示词 3",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-kids-fashion-016?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=clothing-ecommerce-main-image",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-kids-fashion/ai-kids-fashion-016/0.jpg"
+    },
+    {
+      "id": "ai-mens-fashion-016",
+      "slug": "ai-mens-fashion-016",
+      "title": "男装街拍 AI 男装提示词 4",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-mens-fashion-016?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=clothing-ecommerce-main-image",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-mens-fashion/ai-mens-fashion-016/0.jpg"
+    },
+    {
+      "id": "ai-womens-fashion-016",
+      "slug": "ai-womens-fashion-016",
+      "title": "韩系温柔 AI 女装提示词 3",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-womens-fashion-016?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=clothing-ecommerce-main-image",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-womens-fashion/ai-womens-fashion-016/0-v2.png"
+    },
+    {
+      "id": "ai-kids-fashion-017",
+      "slug": "ai-kids-fashion-017",
+      "title": "女童穿搭 AI 童装提示词 9",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-kids-fashion-017?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=clothing-ecommerce-main-image",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-kids-fashion/ai-kids-fashion-017/0.jpg"
+    },
+    {
+      "id": "ai-mens-fashion-017",
+      "slug": "ai-mens-fashion-017",
+      "title": "工装机能男装 AI 男装提示词 4",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-mens-fashion-017?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=clothing-ecommerce-main-image",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-mens-fashion/ai-mens-fashion-017/0.jpg"
+    },
+    {
+      "id": "ai-womens-fashion-017",
+      "slug": "ai-womens-fashion-017",
+      "title": "甜酷辣妹 AI 女装提示词 1",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-womens-fashion-017?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=clothing-ecommerce-main-image",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-womens-fashion/ai-womens-fashion-017/0-v2.png"
+    },
+    {
+      "id": "ai-kids-fashion-018",
+      "slug": "ai-kids-fashion-018",
+      "title": "女童穿搭 AI 童装提示词 10",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-kids-fashion-018?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=clothing-ecommerce-main-image",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-kids-fashion/ai-kids-fashion-018/0.jpg"
+    },
+    {
+      "id": "ai-mens-fashion-018",
+      "slug": "ai-mens-fashion-018",
+      "title": "男装街拍 AI 男装提示词 5",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-mens-fashion-018?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=clothing-ecommerce-main-image",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-mens-fashion/ai-mens-fashion-018/0.jpg"
+    },
+    {
+      "id": "ai-womens-fashion-018",
+      "slug": "ai-womens-fashion-018",
+      "title": "清冷高级 AI 女装提示词",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-womens-fashion-018?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=clothing-ecommerce-main-image",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-womens-fashion/ai-womens-fashion-018/0-v2.png"
+    },
+    {
+      "id": "ai-kids-fashion-019",
+      "slug": "ai-kids-fashion-019",
+      "title": "童装店展示 AI 童装提示词 2",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-kids-fashion-019?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=clothing-ecommerce-main-image",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-kids-fashion/ai-kids-fashion-019/0.jpg"
+    },
+    {
+      "id": "ai-mens-fashion-019",
+      "slug": "ai-mens-fashion-019",
+      "title": "男装写真 AI 男装提示词 3",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-mens-fashion-019?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=clothing-ecommerce-main-image",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-mens-fashion/ai-mens-fashion-019/0.jpg"
+    },
+    {
+      "id": "ai-womens-fashion-019",
+      "slug": "ai-womens-fashion-019",
+      "title": "现代居家 AI 女装提示词",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-womens-fashion-019?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=clothing-ecommerce-main-image",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-womens-fashion/ai-womens-fashion-019/0-v2.png"
+    },
+    {
+      "id": "ai-kids-fashion-020",
+      "slug": "ai-kids-fashion-020",
+      "title": "童装店展示 AI 童装提示词 3",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-kids-fashion-020?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=clothing-ecommerce-main-image",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-kids-fashion/ai-kids-fashion-020/0.jpg"
+    },
+    {
+      "id": "ai-mens-fashion-020",
+      "slug": "ai-mens-fashion-020",
+      "title": "男装对镜自拍 AI 男装提示词 4",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-mens-fashion-020?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=clothing-ecommerce-main-image",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-mens-fashion/ai-mens-fashion-020/0.jpg"
+    },
+    {
+      "id": "ai-womens-fashion-020",
+      "slug": "ai-womens-fashion-020",
+      "title": "春日绿意街道 AI 女装提示词",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-womens-fashion-020?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=clothing-ecommerce-main-image",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-womens-fashion/ai-womens-fashion-020/0-v2.png"
+    },
+    {
+      "id": "ai-kids-fashion-021",
+      "slug": "ai-kids-fashion-021",
+      "title": "幼儿童装 AI 童装提示词 2",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-kids-fashion-021?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=clothing-ecommerce-main-image",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-kids-fashion/ai-kids-fashion-021/0.jpg"
+    },
+    {
+      "id": "ai-mens-fashion-021",
+      "slug": "ai-mens-fashion-021",
+      "title": "男装店展示 AI 男装提示词 2",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-mens-fashion-021?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=clothing-ecommerce-main-image",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-mens-fashion/ai-mens-fashion-021/0.jpg"
+    },
+    {
+      "id": "ai-womens-fashion-021",
+      "slug": "ai-womens-fashion-021",
+      "title": "热带露台度假 AI 女装提示词",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-womens-fashion-021?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=clothing-ecommerce-main-image",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-womens-fashion/ai-womens-fashion-021/0-v2.png"
+    },
+    {
+      "id": "ai-kids-fashion-022",
+      "slug": "ai-kids-fashion-022",
+      "title": "幼儿童装 AI 童装提示词 3",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-kids-fashion-022?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=clothing-ecommerce-main-image",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-kids-fashion/ai-kids-fashion-022/0.jpg"
+    },
+    {
+      "id": "ai-mens-fashion-022",
+      "slug": "ai-mens-fashion-022",
+      "title": "男装街拍 AI 男装提示词 6",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-mens-fashion-022?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=clothing-ecommerce-main-image",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-mens-fashion/ai-mens-fashion-022/0.jpg"
+    },
+    {
+      "id": "ai-womens-fashion-022",
+      "slug": "ai-womens-fashion-022",
+      "title": "法式慵懒 AI 女装提示词 1",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-womens-fashion-022?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=clothing-ecommerce-main-image",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-womens-fashion/ai-womens-fashion-022/0-v2.png"
+    },
+    {
+      "id": "ai-kids-fashion-023",
+      "slug": "ai-kids-fashion-023",
+      "title": "女童穿搭 AI 童装提示词 11",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-kids-fashion-023?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=clothing-ecommerce-main-image",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-kids-fashion/ai-kids-fashion-023/0.jpg"
+    },
+    {
+      "id": "ai-mens-fashion-023",
+      "slug": "ai-mens-fashion-023",
+      "title": "男装店展示 AI 男装提示词 3",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-mens-fashion-023?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=clothing-ecommerce-main-image",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-mens-fashion/ai-mens-fashion-023/0.jpg"
+    },
+    {
+      "id": "ai-womens-fashion-023",
+      "slug": "ai-womens-fashion-023",
+      "title": "甜酷辣妹 AI 女装提示词 2",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-womens-fashion-023?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=clothing-ecommerce-main-image",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-womens-fashion/ai-womens-fashion-023/0-v2.png"
+    },
+    {
+      "id": "ai-kids-fashion-024",
+      "slug": "ai-kids-fashion-024",
+      "title": "童装静物展示 AI 童装提示词 2",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-kids-fashion-024?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=clothing-ecommerce-main-image",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-kids-fashion/ai-kids-fashion-024/0.jpg"
+    },
+    {
+      "id": "ai-mens-fashion-024",
+      "slug": "ai-mens-fashion-024",
+      "title": "AI 男装提示词 3",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-mens-fashion-024?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=clothing-ecommerce-main-image",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-mens-fashion/ai-mens-fashion-024/0.jpg"
+    },
+    {
+      "id": "ai-womens-fashion-024",
+      "slug": "ai-womens-fashion-024",
+      "title": "法式慵懒 AI 女装提示词 2",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-womens-fashion-024?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=clothing-ecommerce-main-image",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-womens-fashion/ai-womens-fashion-024/0-v2.png"
+    },
+    {
+      "id": "ai-kids-fashion-025",
+      "slug": "ai-kids-fashion-025",
+      "title": "童装店展示 AI 童装提示词 4",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-kids-fashion-025?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=clothing-ecommerce-main-image",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-kids-fashion/ai-kids-fashion-025/0.jpg"
+    },
+    {
+      "id": "ai-mens-fashion-025",
+      "slug": "ai-mens-fashion-025",
+      "title": "男装对镜自拍 AI 男装提示词 5",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-mens-fashion-025?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=clothing-ecommerce-main-image",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-mens-fashion/ai-mens-fashion-025/0.jpg"
+    },
+    {
+      "id": "ai-womens-fashion-025",
+      "slug": "ai-womens-fashion-025",
+      "title": "公园氛围感 AI 女装提示词",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-womens-fashion-025?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=clothing-ecommerce-main-image",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-womens-fashion/ai-womens-fashion-025/0-v2.png"
+    },
+    {
+      "id": "ai-kids-fashion-026",
+      "slug": "ai-kids-fashion-026",
+      "title": "童装对镜自拍 AI 童装提示词 3",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-kids-fashion-026?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=clothing-ecommerce-main-image",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-kids-fashion/ai-kids-fashion-026/0.png"
+    },
+    {
+      "id": "ai-mens-fashion-026",
+      "slug": "ai-mens-fashion-026",
+      "title": "男装写真 AI 男装提示词 4",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-mens-fashion-026?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=clothing-ecommerce-main-image",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-mens-fashion/ai-mens-fashion-026/0.jpg"
+    },
+    {
+      "id": "ai-womens-fashion-026",
+      "slug": "ai-womens-fashion-026",
+      "title": "海边度假 AI 女装提示词",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-womens-fashion-026?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=clothing-ecommerce-main-image",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-womens-fashion/ai-womens-fashion-026/0-v2.png"
+    },
+    {
+      "id": "ai-kids-fashion-027",
+      "slug": "ai-kids-fashion-027",
+      "title": "女童穿搭 AI 童装提示词 12",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-kids-fashion-027?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=clothing-ecommerce-main-image",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-kids-fashion/ai-kids-fashion-027/0.png"
+    },
+    {
+      "id": "ai-mens-fashion-027",
+      "slug": "ai-mens-fashion-027",
+      "title": "工装机能男装 AI 男装提示词 5",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-mens-fashion-027?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=clothing-ecommerce-main-image",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-mens-fashion/ai-mens-fashion-027/0.jpg"
+    },
+    {
+      "id": "ai-womens-fashion-027",
+      "slug": "ai-womens-fashion-027",
+      "title": "室内日常穿搭 AI 女装提示词",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-womens-fashion-027?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=clothing-ecommerce-main-image",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-womens-fashion/ai-womens-fashion-027/0-v2.png"
+    },
+    {
+      "id": "ai-kids-fashion-028",
+      "slug": "ai-kids-fashion-028",
+      "title": "童装静物展示 AI 童装提示词 3",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-kids-fashion-028?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=clothing-ecommerce-main-image",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-kids-fashion/ai-kids-fashion-028/0.png"
+    },
+    {
+      "id": "ai-mens-fashion-028",
+      "slug": "ai-mens-fashion-028",
+      "title": "商务通勤男装 AI 男装提示词 1",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-mens-fashion-028?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=clothing-ecommerce-main-image",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-mens-fashion/ai-mens-fashion-028/0.jpg"
+    },
+    {
+      "id": "ai-womens-fashion-028",
+      "slug": "ai-womens-fashion-028",
+      "title": "湖景度假少女 AI 女装提示词",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-womens-fashion-028?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=clothing-ecommerce-main-image",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-womens-fashion/ai-womens-fashion-028/0-v2.png"
+    },
+    {
+      "id": "ai-kids-fashion-029",
+      "slug": "ai-kids-fashion-029",
+      "title": "童装静物展示 AI 童装提示词 4",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-kids-fashion-029?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=clothing-ecommerce-main-image",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-kids-fashion/ai-kids-fashion-029/0.png"
+    },
+    {
+      "id": "ai-mens-fashion-029",
+      "slug": "ai-mens-fashion-029",
+      "title": "男装写真 AI 男装提示词 5",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-mens-fashion-029?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=clothing-ecommerce-main-image",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-mens-fashion/ai-mens-fashion-029/0.jpg"
+    },
+    {
+      "id": "ai-womens-fashion-029",
+      "slug": "ai-womens-fashion-029",
+      "title": "法式慵懒 AI 女装提示词 3",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-womens-fashion-029?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=clothing-ecommerce-main-image",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-womens-fashion/ai-womens-fashion-029/0-v2.png"
+    },
+    {
+      "id": "ai-kids-fashion-030",
+      "slug": "ai-kids-fashion-030",
+      "title": "女童穿搭 AI 童装提示词 13",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-kids-fashion-030?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=clothing-ecommerce-main-image",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-kids-fashion/ai-kids-fashion-030/0.png"
+    },
+    {
+      "id": "ai-mens-fashion-030",
+      "slug": "ai-mens-fashion-030",
+      "title": "工装机能男装 AI 男装提示词 6",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-mens-fashion-030?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=clothing-ecommerce-main-image",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-mens-fashion/ai-mens-fashion-030/0.jpg"
+    },
+    {
+      "id": "ai-womens-fashion-030",
+      "slug": "ai-womens-fashion-030",
+      "title": "法式慵懒 AI 女装提示词 4",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-womens-fashion-030?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=clothing-ecommerce-main-image",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-womens-fashion/ai-womens-fashion-030/0-v2.png"
+    },
+    {
+      "id": "ai-kids-fashion-031",
+      "slug": "ai-kids-fashion-031",
+      "title": "童装对镜自拍 AI 童装提示词 4",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-kids-fashion-031?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=clothing-ecommerce-main-image",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-kids-fashion/ai-kids-fashion-031/0.jpg"
+    },
+    {
+      "id": "ai-mens-fashion-031",
+      "slug": "ai-mens-fashion-031",
+      "title": "工装机能男装 AI 男装提示词 7",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-mens-fashion-031?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=clothing-ecommerce-main-image",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-mens-fashion/ai-mens-fashion-031/0.jpg"
+    },
+    {
+      "id": "ai-womens-fashion-031",
+      "slug": "ai-womens-fashion-031",
+      "title": "春日清新 AI 女装提示词 1",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-womens-fashion-031?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=clothing-ecommerce-main-image",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-womens-fashion/ai-womens-fashion-031/0-v2.png"
+    },
+    {
+      "id": "ai-kids-fashion-032",
+      "slug": "ai-kids-fashion-032",
+      "title": "童装静物展示 AI 童装提示词 5",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-kids-fashion-032?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=clothing-ecommerce-main-image",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-kids-fashion/ai-kids-fashion-032/0.jpg"
+    },
+    {
+      "id": "ai-mens-fashion-032",
+      "slug": "ai-mens-fashion-032",
+      "title": "AI 男装提示词 4",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-mens-fashion-032?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=clothing-ecommerce-main-image",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-mens-fashion/ai-mens-fashion-032/0.jpg"
+    },
+    {
+      "id": "ai-womens-fashion-032",
+      "slug": "ai-womens-fashion-032",
+      "title": "法式慵懒 AI 女装提示词 5",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-womens-fashion-032?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=clothing-ecommerce-main-image",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-womens-fashion/ai-womens-fashion-032/0-v2.png"
+    },
+    {
+      "id": "ai-kids-fashion-033",
+      "slug": "ai-kids-fashion-033",
+      "title": "女童穿搭 AI 童装提示词 14",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-kids-fashion-033?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=clothing-ecommerce-main-image",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-kids-fashion/ai-kids-fashion-033/0.jpg"
+    },
+    {
+      "id": "ai-mens-fashion-033",
+      "slug": "ai-mens-fashion-033",
+      "title": "男装街拍 AI 男装提示词 7",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-mens-fashion-033?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=clothing-ecommerce-main-image",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-mens-fashion/ai-mens-fashion-033/0.jpg"
+    },
+    {
+      "id": "ai-womens-fashion-033",
+      "slug": "ai-womens-fashion-033",
+      "title": "展厅时尚 AI 女装提示词",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-womens-fashion-033?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=clothing-ecommerce-main-image",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-womens-fashion/ai-womens-fashion-033/0-v2.png"
+    },
+    {
+      "id": "ai-kids-fashion-034",
+      "slug": "ai-kids-fashion-034",
+      "title": "女童穿搭 AI 童装提示词 15",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-kids-fashion-034?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=clothing-ecommerce-main-image",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-kids-fashion/ai-kids-fashion-034/0.jpg"
+    },
+    {
+      "id": "ai-mens-fashion-034",
+      "slug": "ai-mens-fashion-034",
+      "title": "AI 男装提示词 5",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-mens-fashion-034?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=clothing-ecommerce-main-image",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-mens-fashion/ai-mens-fashion-034/0.jpg"
+    },
+    {
+      "id": "ai-womens-fashion-034",
+      "slug": "ai-womens-fashion-034",
+      "title": "温馨自拍 AI 女装提示词",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-womens-fashion-034?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=clothing-ecommerce-main-image",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-womens-fashion/ai-womens-fashion-034/0-v2.png"
+    },
+    {
+      "id": "ai-kids-fashion-035",
+      "slug": "ai-kids-fashion-035",
+      "title": "童装静物展示 AI 童装提示词 6",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-kids-fashion-035?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=clothing-ecommerce-main-image",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-kids-fashion/ai-kids-fashion-035/0.jpg"
+    },
+    {
+      "id": "ai-mens-fashion-035",
+      "slug": "ai-mens-fashion-035",
+      "title": "工装机能男装 AI 男装提示词 8",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-mens-fashion-035?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=clothing-ecommerce-main-image",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-mens-fashion/ai-mens-fashion-035/0.jpg"
+    },
+    {
+      "id": "ai-womens-fashion-035",
+      "slug": "ai-womens-fashion-035",
+      "title": "户外少女 AI 女装提示词 1",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-womens-fashion-035?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=clothing-ecommerce-main-image",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-womens-fashion/ai-womens-fashion-035/0-v2.png"
+    },
+    {
+      "id": "ai-kids-fashion-036",
+      "slug": "ai-kids-fashion-036",
+      "title": "幼儿童装 AI 童装提示词 4",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-kids-fashion-036?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=clothing-ecommerce-main-image",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-kids-fashion/ai-kids-fashion-036/0.jpg"
+    },
+    {
+      "id": "ai-mens-fashion-036",
+      "slug": "ai-mens-fashion-036",
+      "title": "男装街拍 AI 男装提示词 8",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-mens-fashion-036?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=clothing-ecommerce-main-image",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-mens-fashion/ai-mens-fashion-036/0.jpg"
+    },
+    {
+      "id": "ai-womens-fashion-036",
+      "slug": "ai-womens-fashion-036",
+      "title": "海边自拍 AI 女装提示词",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-womens-fashion-036?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=clothing-ecommerce-main-image",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-womens-fashion/ai-womens-fashion-036/0-v2.png"
+    },
+    {
+      "id": "ai-kids-fashion-037",
+      "slug": "ai-kids-fashion-037",
+      "title": "女童穿搭 AI 童装提示词 16",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-kids-fashion-037?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=clothing-ecommerce-main-image",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-kids-fashion/ai-kids-fashion-037/0.jpg"
+    },
+    {
+      "id": "ai-mens-fashion-037",
+      "slug": "ai-mens-fashion-037",
+      "title": "AI 男装提示词 6",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-mens-fashion-037?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=clothing-ecommerce-main-image",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-mens-fashion/ai-mens-fashion-037/0.jpg"
+    },
+    {
+      "id": "ai-womens-fashion-037",
+      "slug": "ai-womens-fashion-037",
+      "title": "服装展示 AI 女装提示词",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-womens-fashion-037?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=clothing-ecommerce-main-image",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-womens-fashion/ai-womens-fashion-037/0-v2.png"
+    },
+    {
+      "id": "ai-kids-fashion-038",
+      "slug": "ai-kids-fashion-038",
+      "title": "男童穿搭 AI 童装提示词 4",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-kids-fashion-038?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=clothing-ecommerce-main-image",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-kids-fashion/ai-kids-fashion-038/0.jpg"
+    },
+    {
+      "id": "ai-mens-fashion-038",
+      "slug": "ai-mens-fashion-038",
+      "title": "男装街拍 AI 男装提示词 9",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-mens-fashion-038?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=clothing-ecommerce-main-image",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-mens-fashion/ai-mens-fashion-038/0.jpg"
+    },
+    {
+      "id": "ai-womens-fashion-038",
+      "slug": "ai-womens-fashion-038",
+      "title": "OOTD 摆拍 AI 女装提示词",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-womens-fashion-038?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=clothing-ecommerce-main-image",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-womens-fashion/ai-womens-fashion-038/0-v2.png"
+    },
+    {
+      "id": "ai-kids-fashion-039",
+      "slug": "ai-kids-fashion-039",
+      "title": "幼儿童装 AI 童装提示词 5",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-kids-fashion-039?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=clothing-ecommerce-main-image",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-kids-fashion/ai-kids-fashion-039/0.jpg"
+    },
+    {
+      "id": "ai-mens-fashion-039",
+      "slug": "ai-mens-fashion-039",
+      "title": "商务通勤男装 AI 男装提示词 2",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-mens-fashion-039?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=clothing-ecommerce-main-image",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-mens-fashion/ai-mens-fashion-039/0.jpg"
+    },
+    {
+      "id": "ai-womens-fashion-039",
+      "slug": "ai-womens-fashion-039",
+      "title": "户外少女 AI 女装提示词 2",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-womens-fashion-039?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=clothing-ecommerce-main-image",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-womens-fashion/ai-womens-fashion-039/0-v2.png"
+    },
+    {
+      "id": "ai-kids-fashion-040",
+      "slug": "ai-kids-fashion-040",
+      "title": "幼儿童装 AI 童装提示词 6",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-kids-fashion-040?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=clothing-ecommerce-main-image",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-kids-fashion/ai-kids-fashion-040/0.jpg"
+    },
+    {
+      "id": "ai-mens-fashion-040",
+      "slug": "ai-mens-fashion-040",
+      "title": "男装店展示 AI 男装提示词 4",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-mens-fashion-040?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=clothing-ecommerce-main-image",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-mens-fashion/ai-mens-fashion-040/0.jpg"
+    },
+    {
+      "id": "ai-womens-fashion-040",
+      "slug": "ai-womens-fashion-040",
+      "title": "展厅写真 AI 女装提示词",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-womens-fashion-040?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=clothing-ecommerce-main-image",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-womens-fashion/ai-womens-fashion-040/0-v2.png"
+    },
+    {
+      "id": "ai-kids-fashion-041",
+      "slug": "ai-kids-fashion-041",
+      "title": "AI 童装 AI 童装提示词 1",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-kids-fashion-041?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=clothing-ecommerce-main-image",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-kids-fashion/ai-kids-fashion-041/0.jpg"
+    },
+    {
+      "id": "ai-mens-fashion-041",
+      "slug": "ai-mens-fashion-041",
+      "title": "商务通勤男装 AI 男装提示词 3",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-mens-fashion-041?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=clothing-ecommerce-main-image",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-mens-fashion/ai-mens-fashion-041/0.jpg"
+    },
+    {
+      "id": "ai-womens-fashion-041",
+      "slug": "ai-womens-fashion-041",
+      "title": "法式慵懒 AI 女装提示词 6",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-womens-fashion-041?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=clothing-ecommerce-main-image",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-womens-fashion/ai-womens-fashion-041/0-v2.png"
+    },
+    {
+      "id": "ai-kids-fashion-042",
+      "slug": "ai-kids-fashion-042",
+      "title": "新春童装 AI 童装提示词 1",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-kids-fashion-042?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=clothing-ecommerce-main-image",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-kids-fashion/ai-kids-fashion-042/0.jpg"
+    },
+    {
+      "id": "ai-mens-fashion-042",
+      "slug": "ai-mens-fashion-042",
+      "title": "商务通勤男装 AI 男装提示词 4",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-mens-fashion-042?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=clothing-ecommerce-main-image",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-mens-fashion/ai-mens-fashion-042/0.jpg"
+    },
+    {
+      "id": "ai-womens-fashion-042",
+      "slug": "ai-womens-fashion-042",
+      "title": "冬日居家自拍 AI 女装提示词",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-womens-fashion-042?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=clothing-ecommerce-main-image",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-womens-fashion/ai-womens-fashion-042/0-v2.png"
+    },
+    {
+      "id": "ai-kids-fashion-043",
+      "slug": "ai-kids-fashion-043",
+      "title": "女童穿搭 AI 童装提示词 17",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-kids-fashion-043?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=clothing-ecommerce-main-image",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-kids-fashion/ai-kids-fashion-043/0.jpg"
+    },
+    {
+      "id": "ai-mens-fashion-043",
+      "slug": "ai-mens-fashion-043",
+      "title": "工装机能男装 AI 男装提示词 9",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-mens-fashion-043?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=clothing-ecommerce-main-image",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-mens-fashion/ai-mens-fashion-043/0.jpg"
+    },
+    {
+      "id": "ai-womens-fashion-043",
+      "slug": "ai-womens-fashion-043",
+      "title": "酒店走廊法式慵懒 AI 女装提示词",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-womens-fashion-043?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=clothing-ecommerce-main-image",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-womens-fashion/ai-womens-fashion-043/0.jpeg"
+    },
+    {
+      "id": "ai-kids-fashion-044",
+      "slug": "ai-kids-fashion-044",
+      "title": "新春童装 AI 童装提示词 2",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-kids-fashion-044?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=clothing-ecommerce-main-image",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-kids-fashion/ai-kids-fashion-044/0.jpg"
+    },
+    {
+      "id": "ai-mens-fashion-044",
+      "slug": "ai-mens-fashion-044",
+      "title": "男装街拍 AI 男装提示词 10",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-mens-fashion-044?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=clothing-ecommerce-main-image",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-mens-fashion/ai-mens-fashion-044/0.jpg"
+    },
+    {
+      "id": "ai-womens-fashion-044",
+      "slug": "ai-womens-fashion-044",
+      "title": "服装店内自拍 AI 女装提示词",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-womens-fashion-044?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=clothing-ecommerce-main-image",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-womens-fashion/ai-womens-fashion-044/0-v2.png"
+    },
+    {
+      "id": "ai-kids-fashion-045",
+      "slug": "ai-kids-fashion-045",
+      "title": "幼儿童装 AI 童装提示词 7",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-kids-fashion-045?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=clothing-ecommerce-main-image",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-kids-fashion/ai-kids-fashion-045/0.jpg"
+    },
+    {
+      "id": "ai-mens-fashion-045",
+      "slug": "ai-mens-fashion-045",
+      "title": "工装机能男装 AI 男装提示词 10",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-mens-fashion-045?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=clothing-ecommerce-main-image",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-mens-fashion/ai-mens-fashion-045/0.jpg"
+    },
+    {
+      "id": "ai-womens-fashion-045",
+      "slug": "ai-womens-fashion-045",
+      "title": "室内自拍休闲居家 AI 女装提示词",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-womens-fashion-045?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=clothing-ecommerce-main-image",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-womens-fashion/ai-womens-fashion-045/0-v2.png"
+    },
+    {
+      "id": "ai-kids-fashion-046",
+      "slug": "ai-kids-fashion-046",
+      "title": "童装对镜自拍 AI 童装提示词 5",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-kids-fashion-046?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=clothing-ecommerce-main-image",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-kids-fashion/ai-kids-fashion-046/0.jpg"
+    },
+    {
+      "id": "ai-mens-fashion-046",
+      "slug": "ai-mens-fashion-046",
+      "title": "男装对镜自拍 AI 男装提示词 6",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-mens-fashion-046?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=clothing-ecommerce-main-image",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-mens-fashion/ai-mens-fashion-046/0.jpg"
+    },
+    {
+      "id": "ai-womens-fashion-046",
+      "slug": "ai-womens-fashion-046",
+      "title": "镜前穿搭 AI 女装提示词",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-womens-fashion-046?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=clothing-ecommerce-main-image",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-womens-fashion/ai-womens-fashion-046/0-v2.png"
+    },
+    {
+      "id": "ai-kids-fashion-047",
+      "slug": "ai-kids-fashion-047",
+      "title": "女童穿搭 AI 童装提示词 18",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-kids-fashion-047?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=clothing-ecommerce-main-image",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-kids-fashion/ai-kids-fashion-047/0.jpg"
+    },
+    {
+      "id": "ai-mens-fashion-047",
+      "slug": "ai-mens-fashion-047",
+      "title": "男装街拍 AI 男装提示词 11",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-mens-fashion-047?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=clothing-ecommerce-main-image",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-mens-fashion/ai-mens-fashion-047/0.jpg"
+    },
+    {
+      "id": "ai-womens-fashion-047",
+      "slug": "ai-womens-fashion-047",
+      "title": "临海旅拍 AI 女装提示词",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-womens-fashion-047?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=clothing-ecommerce-main-image",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-womens-fashion/ai-womens-fashion-047/0-v2.png"
+    },
+    {
+      "id": "ai-kids-fashion-048",
+      "slug": "ai-kids-fashion-048",
+      "title": "AI 童装 AI 童装提示词 2",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-kids-fashion-048?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=clothing-ecommerce-main-image",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-kids-fashion/ai-kids-fashion-048/0.jpg"
+    },
+    {
+      "id": "ai-mens-fashion-048",
+      "slug": "ai-mens-fashion-048",
+      "title": "AI 男装提示词 7",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-mens-fashion-048?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=clothing-ecommerce-main-image",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-mens-fashion/ai-mens-fashion-048/0.jpg"
+    },
+    {
+      "id": "ai-womens-fashion-048",
+      "slug": "ai-womens-fashion-048",
+      "title": "都市街景甜酷辣妹 AI 女装提示词",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-womens-fashion-048?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=clothing-ecommerce-main-image",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-womens-fashion/ai-womens-fashion-048/0-v2.png"
+    },
+    {
+      "id": "ai-kids-fashion-049",
+      "slug": "ai-kids-fashion-049",
+      "title": "新春童装 AI 童装提示词 3",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-kids-fashion-049?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=clothing-ecommerce-main-image",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-kids-fashion/ai-kids-fashion-049/0.jpg"
+    },
+    {
+      "id": "ai-mens-fashion-049",
+      "slug": "ai-mens-fashion-049",
+      "title": "工装机能男装 AI 男装提示词 11",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-mens-fashion-049?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=clothing-ecommerce-main-image",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-mens-fashion/ai-mens-fashion-049/0.jpg"
+    },
+    {
+      "id": "ai-womens-fashion-049",
+      "slug": "ai-womens-fashion-049",
+      "title": "艺术展厅 AI 女装提示词",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-womens-fashion-049?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=clothing-ecommerce-main-image",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-womens-fashion/ai-womens-fashion-049/0-v2.png"
+    },
+    {
+      "id": "ai-kids-fashion-050",
+      "slug": "ai-kids-fashion-050",
+      "title": "新春童装 AI 童装提示词 4",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-kids-fashion-050?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=clothing-ecommerce-main-image",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-kids-fashion/ai-kids-fashion-050/0.jpg"
+    },
+    {
+      "id": "ai-mens-fashion-050",
+      "slug": "ai-mens-fashion-050",
+      "title": "工装机能男装 AI 男装提示词 12",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-mens-fashion-050?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=clothing-ecommerce-main-image",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-mens-fashion/ai-mens-fashion-050/0.jpg"
+    },
+    {
+      "id": "ai-womens-fashion-050",
+      "slug": "ai-womens-fashion-050",
+      "title": "复古森系户外 AI 女装提示词",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-womens-fashion-050?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=clothing-ecommerce-main-image",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-womens-fashion/ai-womens-fashion-050/0-v2.png"
+    },
+    {
+      "id": "ai-kids-fashion-051",
+      "slug": "ai-kids-fashion-051",
+      "title": "新春童装 AI 童装提示词 5",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-kids-fashion-051?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=clothing-ecommerce-main-image",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-kids-fashion/ai-kids-fashion-051/0.jpg"
+    },
+    {
+      "id": "ai-mens-fashion-051",
+      "slug": "ai-mens-fashion-051",
+      "title": "工装机能男装 AI 男装提示词 13",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-mens-fashion-051?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=clothing-ecommerce-main-image",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-mens-fashion/ai-mens-fashion-051/0.jpg"
+    },
+    {
+      "id": "ai-womens-fashion-051",
+      "slug": "ai-womens-fashion-051",
+      "title": "夜晚户外氛围感 AI 女装提示词",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-womens-fashion-051?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=clothing-ecommerce-main-image",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-womens-fashion/ai-womens-fashion-051/0-v2.png"
+    },
+    {
+      "id": "ai-kids-fashion-052",
+      "slug": "ai-kids-fashion-052",
+      "title": "新春童装 AI 童装提示词 6",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-kids-fashion-052?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=clothing-ecommerce-main-image",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-kids-fashion/ai-kids-fashion-052/0.png"
+    },
+    {
+      "id": "ai-mens-fashion-052",
+      "slug": "ai-mens-fashion-052",
+      "title": "男装店展示 AI 男装提示词 5",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-mens-fashion-052?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=clothing-ecommerce-main-image",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-mens-fashion/ai-mens-fashion-052/0.jpg"
+    },
+    {
+      "id": "ai-womens-fashion-052",
+      "slug": "ai-womens-fashion-052",
+      "title": "ins 风文艺人像 AI 女装提示词",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-womens-fashion-052?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=clothing-ecommerce-main-image",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-womens-fashion/ai-womens-fashion-052/0-v2.png"
+    },
+    {
+      "id": "ai-kids-fashion-053",
+      "slug": "ai-kids-fashion-053",
+      "title": "新春童装 AI 童装提示词 7",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-kids-fashion-053?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=clothing-ecommerce-main-image",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-kids-fashion/ai-kids-fashion-053/0.jpg"
+    },
+    {
+      "id": "ai-mens-fashion-053",
+      "slug": "ai-mens-fashion-053",
+      "title": "AI 男装提示词 8",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-mens-fashion-053?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=clothing-ecommerce-main-image",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-mens-fashion/ai-mens-fashion-053/0.jpg"
+    },
+    {
+      "id": "ai-womens-fashion-053",
+      "slug": "ai-womens-fashion-053",
+      "title": "意式轻奢节日 AI 女装提示词",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-womens-fashion-053?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=clothing-ecommerce-main-image",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-womens-fashion/ai-womens-fashion-053/0-v2.png"
+    },
+    {
+      "id": "ai-kids-fashion-054",
+      "slug": "ai-kids-fashion-054",
+      "title": "新春童装 AI 童装提示词 8",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-kids-fashion-054?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=clothing-ecommerce-main-image",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-kids-fashion/ai-kids-fashion-054/0.jpg"
+    },
+    {
+      "id": "ai-mens-fashion-054",
+      "slug": "ai-mens-fashion-054",
+      "title": "工装机能男装 AI 男装提示词 14",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-mens-fashion-054?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=clothing-ecommerce-main-image",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-mens-fashion/ai-mens-fashion-054/0.jpg"
+    },
+    {
+      "id": "ai-womens-fashion-054",
+      "slug": "ai-womens-fashion-054",
+      "title": "红墙蔷薇氛围感 AI 女装提示词",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-womens-fashion-054?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=clothing-ecommerce-main-image",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-womens-fashion/ai-womens-fashion-054/0-v2.png"
+    },
+    {
+      "id": "ai-kids-fashion-055",
+      "slug": "ai-kids-fashion-055",
+      "title": "童装静物展示 AI 童装提示词 7",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-kids-fashion-055?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=clothing-ecommerce-main-image",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-kids-fashion/ai-kids-fashion-055/0.png"
+    },
+    {
+      "id": "ai-mens-fashion-055",
+      "slug": "ai-mens-fashion-055",
+      "title": "商务通勤男装 AI 男装提示词 5",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-mens-fashion-055?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=clothing-ecommerce-main-image",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-mens-fashion/ai-mens-fashion-055/0.jpg"
+    },
+    {
+      "id": "ai-womens-fashion-055",
+      "slug": "ai-womens-fashion-055",
+      "title": "冬日街道雪景 AI 女装提示词",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-womens-fashion-055?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=clothing-ecommerce-main-image",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-womens-fashion/ai-womens-fashion-055/0-v2.png"
+    },
+    {
+      "id": "ai-kids-fashion-056",
+      "slug": "ai-kids-fashion-056",
+      "title": "女童穿搭 AI 童装提示词 19",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-kids-fashion-056?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=clothing-ecommerce-main-image",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-kids-fashion/ai-kids-fashion-056/0.png"
+    },
+    {
+      "id": "ai-mens-fashion-056",
+      "slug": "ai-mens-fashion-056",
+      "title": "男装店展示 AI 男装提示词 6",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-mens-fashion-056?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=clothing-ecommerce-main-image",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-mens-fashion/ai-mens-fashion-056/0.jpg"
+    },
+    {
+      "id": "ai-womens-fashion-056",
+      "slug": "ai-womens-fashion-056",
+      "title": "港风画室雪景 AI 女装提示词",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-womens-fashion-056?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=clothing-ecommerce-main-image",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-womens-fashion/ai-womens-fashion-056/0-v2.png"
+    },
+    {
+      "id": "ai-kids-fashion-057",
+      "slug": "ai-kids-fashion-057",
+      "title": "新春童装 AI 童装提示词 9",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-kids-fashion-057?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=clothing-ecommerce-main-image",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-kids-fashion/ai-kids-fashion-057/0.jpg"
+    },
+    {
+      "id": "ai-mens-fashion-057",
+      "slug": "ai-mens-fashion-057",
+      "title": "男装店展示 AI 男装提示词 7",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-mens-fashion-057?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=clothing-ecommerce-main-image",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-mens-fashion/ai-mens-fashion-057/0.jpg"
+    },
+    {
+      "id": "ai-womens-fashion-057",
+      "slug": "ai-womens-fashion-057",
+      "title": "法式慵懒 AI 女装提示词 7",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-womens-fashion-057?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=clothing-ecommerce-main-image",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-womens-fashion/ai-womens-fashion-057/0-v2.png"
+    },
+    {
+      "id": "ai-kids-fashion-058",
+      "slug": "ai-kids-fashion-058",
+      "title": "童装对镜自拍 AI 童装提示词 6",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-kids-fashion-058?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=clothing-ecommerce-main-image",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-kids-fashion/ai-kids-fashion-058/0.jpg"
+    },
+    {
+      "id": "ai-mens-fashion-058",
+      "slug": "ai-mens-fashion-058",
+      "title": "AI 男装提示词 9",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-mens-fashion-058?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=clothing-ecommerce-main-image",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-mens-fashion/ai-mens-fashion-058/0.jpg"
+    },
+    {
+      "id": "ai-womens-fashion-058",
+      "slug": "ai-womens-fashion-058",
+      "title": "衣柜里的服装展示图 AI 女装提示词",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-womens-fashion-058?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=clothing-ecommerce-main-image",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-womens-fashion/ai-womens-fashion-058/0-v2.png"
+    },
+    {
+      "id": "ai-kids-fashion-059",
+      "slug": "ai-kids-fashion-059",
+      "title": "新春童装 AI 童装提示词 10",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-kids-fashion-059?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=clothing-ecommerce-main-image",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-kids-fashion/ai-kids-fashion-059/0.jpg"
+    },
+    {
+      "id": "ai-mens-fashion-059",
+      "slug": "ai-mens-fashion-059",
+      "title": "工装机能男装 AI 男装提示词 15",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-mens-fashion-059?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=clothing-ecommerce-main-image",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-mens-fashion/ai-mens-fashion-059/0.jpg"
+    },
+    {
+      "id": "ai-womens-fashion-059",
+      "slug": "ai-womens-fashion-059",
+      "title": "复古港风 AI 女装提示词 1",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-womens-fashion-059?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=clothing-ecommerce-main-image",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-womens-fashion/ai-womens-fashion-059/0-v2.png"
+    },
+    {
+      "id": "ai-kids-fashion-060",
+      "slug": "ai-kids-fashion-060",
+      "title": "国风童装 AI 童装提示词 1",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-kids-fashion-060?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=clothing-ecommerce-main-image",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-kids-fashion/ai-kids-fashion-060/0.jpg"
+    },
+    {
+      "id": "ai-mens-fashion-060",
+      "slug": "ai-mens-fashion-060",
+      "title": "男装写真 AI 男装提示词 6",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-mens-fashion-060?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=clothing-ecommerce-main-image",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-mens-fashion/ai-mens-fashion-060/0.jpg"
+    },
+    {
+      "id": "ai-womens-fashion-060",
+      "slug": "ai-womens-fashion-060",
+      "title": "冬日节日氛围感 AI 女装提示词",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-womens-fashion-060?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=clothing-ecommerce-main-image",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-womens-fashion/ai-womens-fashion-060/0-v2.png"
+    },
+    {
+      "id": "ai-kids-fashion-061",
+      "slug": "ai-kids-fashion-061",
+      "title": "童装静物展示 AI 童装提示词 8",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-kids-fashion-061?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=clothing-ecommerce-main-image",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-kids-fashion/ai-kids-fashion-061/0.jpg"
+    },
+    {
+      "id": "ai-mens-fashion-061",
+      "slug": "ai-mens-fashion-061",
+      "title": "商务通勤男装 AI 男装提示词 6",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-mens-fashion-061?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=clothing-ecommerce-main-image",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-mens-fashion/ai-mens-fashion-061/0.jpg"
+    },
+    {
+      "id": "ai-womens-fashion-061",
+      "slug": "ai-womens-fashion-061",
+      "title": "艺术展厅内的时尚写真 AI 女装提示词",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-womens-fashion-061?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=clothing-ecommerce-main-image",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-womens-fashion/ai-womens-fashion-061/0-v2.png"
+    },
+    {
+      "id": "ai-kids-fashion-062",
+      "slug": "ai-kids-fashion-062",
+      "title": "新春童装 AI 童装提示词 11",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-kids-fashion-062?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=clothing-ecommerce-main-image",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-kids-fashion/ai-kids-fashion-062/0.jpg"
+    },
+    {
+      "id": "ai-mens-fashion-062",
+      "slug": "ai-mens-fashion-062",
+      "title": "男装店展示 AI 男装提示词 8",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-mens-fashion-062?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=clothing-ecommerce-main-image",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-mens-fashion/ai-mens-fashion-062/0.jpg"
+    },
+    {
+      "id": "ai-womens-fashion-062",
+      "slug": "ai-womens-fashion-062",
+      "title": "复古港风 AI 女装提示词 2",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-womens-fashion-062?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=clothing-ecommerce-main-image",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-womens-fashion/ai-womens-fashion-062/0-v2.png"
+    },
+    {
+      "id": "ai-kids-fashion-063",
+      "slug": "ai-kids-fashion-063",
+      "title": "童装静物展示 AI 童装提示词 9",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-kids-fashion-063?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=clothing-ecommerce-main-image",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-kids-fashion/ai-kids-fashion-063/0.jpg"
+    },
+    {
+      "id": "ai-mens-fashion-063",
+      "slug": "ai-mens-fashion-063",
+      "title": "工装机能男装 AI 男装提示词 16",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-mens-fashion-063?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=clothing-ecommerce-main-image",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-mens-fashion/ai-mens-fashion-063/0.jpg"
+    },
+    {
+      "id": "ai-womens-fashion-063",
+      "slug": "ai-womens-fashion-063",
+      "title": "春日清新 AI 女装提示词 2",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-womens-fashion-063?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=clothing-ecommerce-main-image",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-womens-fashion/ai-womens-fashion-063/0-v2.png"
+    },
+    {
+      "id": "ai-kids-fashion-064",
+      "slug": "ai-kids-fashion-064",
+      "title": "新春童装 AI 童装提示词 12",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-kids-fashion-064?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=clothing-ecommerce-main-image",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-kids-fashion/ai-kids-fashion-064/0.jpg"
+    },
+    {
+      "id": "ai-mens-fashion-064",
+      "slug": "ai-mens-fashion-064",
+      "title": "工装机能男装 AI 男装提示词 17",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-mens-fashion-064?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=clothing-ecommerce-main-image",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-mens-fashion/ai-mens-fashion-064/0.jpg"
+    },
+    {
+      "id": "ai-womens-fashion-064",
+      "slug": "ai-womens-fashion-064",
+      "title": "休闲居家 AI 女装提示词 1",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-womens-fashion-064?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=clothing-ecommerce-main-image",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-womens-fashion/ai-womens-fashion-064/0-v2.png"
+    },
+    {
+      "id": "ai-kids-fashion-065",
+      "slug": "ai-kids-fashion-065",
+      "title": "新春童装 AI 童装提示词 13",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-kids-fashion-065?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=clothing-ecommerce-main-image",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-kids-fashion/ai-kids-fashion-065/0.jpg"
+    },
+    {
+      "id": "ai-mens-fashion-065",
+      "slug": "ai-mens-fashion-065",
+      "title": "男装街拍 AI 男装提示词 12",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-mens-fashion-065?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=clothing-ecommerce-main-image",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-mens-fashion/ai-mens-fashion-065/0.jpg"
+    },
+    {
+      "id": "ai-womens-fashion-065",
+      "slug": "ai-womens-fashion-065",
+      "title": "春日清新 AI 女装提示词 3",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-womens-fashion-065?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=clothing-ecommerce-main-image",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-womens-fashion/ai-womens-fashion-065/0-v2.png"
+    },
+    {
+      "id": "ai-kids-fashion-066",
+      "slug": "ai-kids-fashion-066",
+      "title": "新春童装 AI 童装提示词 14",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-kids-fashion-066?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=clothing-ecommerce-main-image",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-kids-fashion/ai-kids-fashion-066/0.jpg"
+    },
+    {
+      "id": "ai-mens-fashion-066",
+      "slug": "ai-mens-fashion-066",
+      "title": "工装机能男装 AI 男装提示词 18",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-mens-fashion-066?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=clothing-ecommerce-main-image",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-mens-fashion/ai-mens-fashion-066/0.jpg"
+    },
+    {
+      "id": "ai-womens-fashion-066",
+      "slug": "ai-womens-fashion-066",
+      "title": "店内穿搭 AI 女装提示词 1",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-womens-fashion-066?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=clothing-ecommerce-main-image",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-womens-fashion/ai-womens-fashion-066/0-v2.png"
+    },
+    {
+      "id": "ai-kids-fashion-067",
+      "slug": "ai-kids-fashion-067",
+      "title": "童装静物展示 AI 童装提示词 10",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-kids-fashion-067?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=clothing-ecommerce-main-image",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-kids-fashion/ai-kids-fashion-067/0.jpg"
+    },
+    {
+      "id": "ai-mens-fashion-067",
+      "slug": "ai-mens-fashion-067",
+      "title": "商务通勤男装 AI 男装提示词 7",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-mens-fashion-067?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=clothing-ecommerce-main-image",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-mens-fashion/ai-mens-fashion-067/0.jpg"
+    },
+    {
+      "id": "ai-womens-fashion-067",
+      "slug": "ai-womens-fashion-067",
+      "title": "店内穿搭 AI 女装提示词 2",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-womens-fashion-067?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=clothing-ecommerce-main-image",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-womens-fashion/ai-womens-fashion-067/0-v2.png"
+    },
+    {
+      "id": "ai-kids-fashion-068",
+      "slug": "ai-kids-fashion-068",
+      "title": "新春童装 AI 童装提示词 15",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-kids-fashion-068?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=clothing-ecommerce-main-image",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-kids-fashion/ai-kids-fashion-068/0.jpg"
+    },
+    {
+      "id": "ai-mens-fashion-068",
+      "slug": "ai-mens-fashion-068",
+      "title": "运动男装 AI 男装提示词 1",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-mens-fashion-068?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=clothing-ecommerce-main-image",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-mens-fashion/ai-mens-fashion-068/0.jpg"
+    },
+    {
+      "id": "ai-womens-fashion-068",
+      "slug": "ai-womens-fashion-068",
+      "title": "店内穿搭 AI 女装提示词 3",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-womens-fashion-068?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=clothing-ecommerce-main-image",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-womens-fashion/ai-womens-fashion-068/0-v2.png"
+    },
+    {
+      "id": "ai-kids-fashion-069",
+      "slug": "ai-kids-fashion-069",
+      "title": "童装静物展示 AI 童装提示词 11",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-kids-fashion-069?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=clothing-ecommerce-main-image",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-kids-fashion/ai-kids-fashion-069/0.jpg"
+    },
+    {
+      "id": "ai-mens-fashion-069",
+      "slug": "ai-mens-fashion-069",
+      "title": "运动男装 AI 男装提示词 2",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-mens-fashion-069?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=clothing-ecommerce-main-image",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-mens-fashion/ai-mens-fashion-069/0.jpg"
+    },
+    {
+      "id": "ai-womens-fashion-069",
+      "slug": "ai-womens-fashion-069",
+      "title": "车内清冷高级 AI 女装提示词",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-womens-fashion-069?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=clothing-ecommerce-main-image",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-womens-fashion/ai-womens-fashion-069/0-v2.png"
+    },
+    {
+      "id": "ai-kids-fashion-070",
+      "slug": "ai-kids-fashion-070",
+      "title": "童装静物展示 AI 童装提示词 12",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-kids-fashion-070?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=clothing-ecommerce-main-image",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-kids-fashion/ai-kids-fashion-070/0.jpg"
+    },
+    {
+      "id": "ai-mens-fashion-070",
+      "slug": "ai-mens-fashion-070",
+      "title": "工装机能男装 AI 男装提示词 19",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-mens-fashion-070?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=clothing-ecommerce-main-image",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-mens-fashion/ai-mens-fashion-070/0.jpg"
+    },
+    {
+      "id": "ai-womens-fashion-070",
+      "slug": "ai-womens-fashion-070",
+      "title": "复古港风 AI 女装提示词 3",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-womens-fashion-070?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=clothing-ecommerce-main-image",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-womens-fashion/ai-womens-fashion-070/0-v2.png"
+    },
+    {
+      "id": "ai-kids-fashion-071",
+      "slug": "ai-kids-fashion-071",
+      "title": "幼儿童装 AI 童装提示词 8",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-kids-fashion-071?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=clothing-ecommerce-main-image",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-kids-fashion/ai-kids-fashion-071/0.jpg"
+    },
+    {
+      "id": "ai-mens-fashion-071",
+      "slug": "ai-mens-fashion-071",
+      "title": "AI 男装提示词 10",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-mens-fashion-071?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=clothing-ecommerce-main-image",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-mens-fashion/ai-mens-fashion-071/0.jpg"
+    },
+    {
+      "id": "ai-womens-fashion-071",
+      "slug": "ai-womens-fashion-071",
+      "title": "韩系温柔 AI 女装提示词 4",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-womens-fashion-071?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=clothing-ecommerce-main-image",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-womens-fashion/ai-womens-fashion-071/0-v2.png"
+    },
+    {
+      "id": "ai-kids-fashion-072",
+      "slug": "ai-kids-fashion-072",
+      "title": "童装静物展示 AI 童装提示词 13",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-kids-fashion-072?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=clothing-ecommerce-main-image",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-kids-fashion/ai-kids-fashion-072/0.jpg"
+    },
+    {
+      "id": "ai-mens-fashion-072",
+      "slug": "ai-mens-fashion-072",
+      "title": "男装对镜自拍 AI 男装提示词 7",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-mens-fashion-072?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=clothing-ecommerce-main-image",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-mens-fashion/ai-mens-fashion-072/0.jpg"
+    },
+    {
+      "id": "ai-womens-fashion-072",
+      "slug": "ai-womens-fashion-072",
+      "title": "辣妹工装风 AI 女装提示词",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-womens-fashion-072?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=clothing-ecommerce-main-image",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-womens-fashion/ai-womens-fashion-072/0-v2.png"
+    },
+    {
+      "id": "ai-kids-fashion-073",
+      "slug": "ai-kids-fashion-073",
+      "title": "童装静物展示 AI 童装提示词 14",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-kids-fashion-073?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=clothing-ecommerce-main-image",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-kids-fashion/ai-kids-fashion-073/0.jpg"
+    },
+    {
+      "id": "ai-mens-fashion-073",
+      "slug": "ai-mens-fashion-073",
+      "title": "运动男装 AI 男装提示词 3",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-mens-fashion-073?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=clothing-ecommerce-main-image",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-mens-fashion/ai-mens-fashion-073/0.jpg"
+    },
+    {
+      "id": "ai-womens-fashion-073",
+      "slug": "ai-womens-fashion-073",
+      "title": "韩系温柔画廊 AI 女装提示词",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-womens-fashion-073?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=clothing-ecommerce-main-image",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-womens-fashion/ai-womens-fashion-073/0-v2.png"
+    },
+    {
+      "id": "ai-kids-fashion-074",
+      "slug": "ai-kids-fashion-074",
+      "title": "女童穿搭 AI 童装提示词 20",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-kids-fashion-074?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=clothing-ecommerce-main-image",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-kids-fashion/ai-kids-fashion-074/0.jpg"
+    },
+    {
+      "id": "ai-mens-fashion-074",
+      "slug": "ai-mens-fashion-074",
+      "title": "AI 男装提示词 11",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-mens-fashion-074?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=clothing-ecommerce-main-image",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-mens-fashion/ai-mens-fashion-074/0.jpg"
+    },
+    {
+      "id": "ai-womens-fashion-074",
+      "slug": "ai-womens-fashion-074",
+      "title": "通勤干练风女装 AI 女装提示词",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-womens-fashion-074?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=clothing-ecommerce-main-image",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-womens-fashion/ai-womens-fashion-074/0-v2.png"
+    },
+    {
+      "id": "ai-kids-fashion-075",
+      "slug": "ai-kids-fashion-075",
+      "title": "女童穿搭 AI 童装提示词 21",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-kids-fashion-075?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=clothing-ecommerce-main-image",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-kids-fashion/ai-kids-fashion-075/0.jpg"
+    },
+    {
+      "id": "ai-mens-fashion-075",
+      "slug": "ai-mens-fashion-075",
+      "title": "男装街拍 AI 男装提示词 13",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-mens-fashion-075?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=clothing-ecommerce-main-image",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-mens-fashion/ai-mens-fashion-075/0.jpg"
+    },
+    {
+      "id": "ai-womens-fashion-075",
+      "slug": "ai-womens-fashion-075",
+      "title": "冬日温馨氛围 AI 女装提示词",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-womens-fashion-075?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=clothing-ecommerce-main-image",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-womens-fashion/ai-womens-fashion-075/0-v2.png"
+    },
+    {
+      "id": "ai-kids-fashion-076",
+      "slug": "ai-kids-fashion-076",
+      "title": "新春童装 AI 童装提示词 16",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-kids-fashion-076?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=clothing-ecommerce-main-image",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-kids-fashion/ai-kids-fashion-076/0.jpg"
+    },
+    {
+      "id": "ai-mens-fashion-076",
+      "slug": "ai-mens-fashion-076",
+      "title": "男装店展示 AI 男装提示词 9",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-mens-fashion-076?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=clothing-ecommerce-main-image",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-mens-fashion/ai-mens-fashion-076/0.jpg"
+    },
+    {
+      "id": "ai-womens-fashion-076",
+      "slug": "ai-womens-fashion-076",
+      "title": "休闲居家 AI 女装提示词 2",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-womens-fashion-076?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=clothing-ecommerce-main-image",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-womens-fashion/ai-womens-fashion-076/0-v2.png"
+    },
+    {
+      "id": "ai-kids-fashion-077",
+      "slug": "ai-kids-fashion-077",
+      "title": "女童穿搭 AI 童装提示词 22",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-kids-fashion-077?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=clothing-ecommerce-main-image",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-kids-fashion/ai-kids-fashion-077/0.jpg"
+    },
+    {
+      "id": "ai-mens-fashion-077",
+      "slug": "ai-mens-fashion-077",
+      "title": "商务通勤男装 AI 男装提示词 8",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-mens-fashion-077?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=clothing-ecommerce-main-image",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-mens-fashion/ai-mens-fashion-077/0.jpg"
+    },
+    {
+      "id": "ai-womens-fashion-077",
+      "slug": "ai-womens-fashion-077",
+      "title": "复古港风 AI 女装提示词 4",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-womens-fashion-077?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=clothing-ecommerce-main-image",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-womens-fashion/ai-womens-fashion-077/0-v2.png"
+    },
+    {
+      "id": "ai-kids-fashion-078",
+      "slug": "ai-kids-fashion-078",
+      "title": "童装对镜自拍 AI 童装提示词 7",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-kids-fashion-078?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=clothing-ecommerce-main-image",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-kids-fashion/ai-kids-fashion-078/0.jpg"
+    },
+    {
+      "id": "ai-mens-fashion-078",
+      "slug": "ai-mens-fashion-078",
+      "title": "AI 男装提示词 12",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-mens-fashion-078?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=clothing-ecommerce-main-image",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-mens-fashion/ai-mens-fashion-078/0.jpg"
+    },
+    {
+      "id": "ai-womens-fashion-078",
+      "slug": "ai-womens-fashion-078",
+      "title": "镜前自拍 AI 女装提示词",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-womens-fashion-078?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=clothing-ecommerce-main-image",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-womens-fashion/ai-womens-fashion-078/0-v2.png"
+    },
+    {
+      "id": "ai-kids-fashion-079",
+      "slug": "ai-kids-fashion-079",
+      "title": "新春童装 AI 童装提示词 17",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-kids-fashion-079?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=clothing-ecommerce-main-image",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-kids-fashion/ai-kids-fashion-079/0.jpg"
+    },
+    {
+      "id": "ai-mens-fashion-079",
+      "slug": "ai-mens-fashion-079",
+      "title": "工装机能男装 AI 男装提示词 20",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-mens-fashion-079?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=clothing-ecommerce-main-image",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-mens-fashion/ai-mens-fashion-079/0.jpg"
+    },
+    {
+      "id": "ai-womens-fashion-079",
+      "slug": "ai-womens-fashion-079",
+      "title": "春日清新 AI 女装提示词 4",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-womens-fashion-079?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=clothing-ecommerce-main-image",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-womens-fashion/ai-womens-fashion-079/0-v2.png"
+    },
+    {
+      "id": "ai-kids-fashion-080",
+      "slug": "ai-kids-fashion-080",
+      "title": "新春童装 AI 童装提示词 18",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-kids-fashion-080?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=clothing-ecommerce-main-image",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-kids-fashion/ai-kids-fashion-080/0.jpg"
+    },
+    {
+      "id": "ai-mens-fashion-080",
+      "slug": "ai-mens-fashion-080",
+      "title": "工装机能男装 AI 男装提示词 21",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-mens-fashion-080?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=clothing-ecommerce-main-image",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-mens-fashion/ai-mens-fashion-080/0.jpg"
+    },
+    {
+      "id": "ai-womens-fashion-080",
+      "slug": "ai-womens-fashion-080",
+      "title": "工业风工作室里的甜美写真 AI 女装提示词",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-womens-fashion-080?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=clothing-ecommerce-main-image",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-womens-fashion/ai-womens-fashion-080/0-v2.png"
+    },
+    {
+      "id": "ai-kids-fashion-081",
+      "slug": "ai-kids-fashion-081",
+      "title": "幼儿童装 AI 童装提示词 9",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-kids-fashion-081?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=clothing-ecommerce-main-image",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-kids-fashion/ai-kids-fashion-081/0.jpg"
+    },
+    {
+      "id": "ai-mens-fashion-081",
+      "slug": "ai-mens-fashion-081",
+      "title": "工装机能男装 AI 男装提示词 22",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-mens-fashion-081?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=clothing-ecommerce-main-image",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-mens-fashion/ai-mens-fashion-081/0.jpg"
+    },
+    {
+      "id": "ai-womens-fashion-081",
+      "slug": "ai-womens-fashion-081",
+      "title": "游艇上的清新度假写真 AI 女装提示词",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-womens-fashion-081?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=clothing-ecommerce-main-image",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-womens-fashion/ai-womens-fashion-081/0-v2.png"
+    },
+    {
+      "id": "ai-kids-fashion-082",
+      "slug": "ai-kids-fashion-082",
+      "title": "国风童装 AI 童装提示词 2",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-kids-fashion-082?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=clothing-ecommerce-main-image",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-kids-fashion/ai-kids-fashion-082/0.jpg"
+    },
+    {
+      "id": "ai-mens-fashion-082",
+      "slug": "ai-mens-fashion-082",
+      "title": "工装机能男装 AI 男装提示词 23",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-mens-fashion-082?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=clothing-ecommerce-main-image",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-mens-fashion/ai-mens-fashion-082/0.jpg"
+    },
+    {
+      "id": "ai-womens-fashion-082",
+      "slug": "ai-womens-fashion-082",
+      "title": "简约室内的氛围感 AI 女装提示词",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-womens-fashion-082?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=clothing-ecommerce-main-image",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-womens-fashion/ai-womens-fashion-082/0-v2.png"
+    },
+    {
+      "id": "ai-kids-fashion-083",
+      "slug": "ai-kids-fashion-083",
+      "title": "童装静物展示 AI 童装提示词 15",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-kids-fashion-083?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=clothing-ecommerce-main-image",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-kids-fashion/ai-kids-fashion-083/0.jpg"
+    },
+    {
+      "id": "ai-mens-fashion-083",
+      "slug": "ai-mens-fashion-083",
+      "title": "工装机能男装 AI 男装提示词 24",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-mens-fashion-083?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=clothing-ecommerce-main-image",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-mens-fashion/ai-mens-fashion-083/0.jpg"
+    },
+    {
+      "id": "ai-womens-fashion-083",
+      "slug": "ai-womens-fashion-083",
+      "title": "新中式家居里的知性写真 AI 女装提示词",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-womens-fashion-083?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=clothing-ecommerce-main-image",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-womens-fashion/ai-womens-fashion-083/0-v2.png"
+    },
+    {
+      "id": "ai-kids-fashion-084",
+      "slug": "ai-kids-fashion-084",
+      "title": "童装静物展示 AI 童装提示词 16",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-kids-fashion-084?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=clothing-ecommerce-main-image",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-kids-fashion/ai-kids-fashion-084/0.jpg"
+    },
+    {
+      "id": "ai-mens-fashion-084",
+      "slug": "ai-mens-fashion-084",
+      "title": "男装写真 AI 男装提示词 7",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-mens-fashion-084?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=clothing-ecommerce-main-image",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-mens-fashion/ai-mens-fashion-084/0.jpg"
+    },
+    {
+      "id": "ai-womens-fashion-084",
+      "slug": "ai-womens-fashion-084",
+      "title": "春日草地的日系胶片写真 AI 女装提示词",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-womens-fashion-084?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=clothing-ecommerce-main-image",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-womens-fashion/ai-womens-fashion-084/0-v2.png"
+    },
+    {
+      "id": "ai-kids-fashion-085",
+      "slug": "ai-kids-fashion-085",
+      "title": "女童穿搭 AI 童装提示词 23",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-kids-fashion-085?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=clothing-ecommerce-main-image",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-kids-fashion/ai-kids-fashion-085/0.jpg"
+    },
+    {
+      "id": "ai-mens-fashion-085",
+      "slug": "ai-mens-fashion-085",
+      "title": "工装机能男装 AI 男装提示词 25",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-mens-fashion-085?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=clothing-ecommerce-main-image",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-mens-fashion/ai-mens-fashion-085/0.jpg"
+    },
+    {
+      "id": "ai-womens-fashion-085",
+      "slug": "ai-womens-fashion-085",
+      "title": "轻奢玄关里的自拍写真 AI 女装提示词",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-womens-fashion-085?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=clothing-ecommerce-main-image",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-womens-fashion/ai-womens-fashion-085/0-v2.png"
+    },
+    {
+      "id": "ai-kids-fashion-086",
+      "slug": "ai-kids-fashion-086",
+      "title": "童装店展示 AI 童装提示词 5",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-kids-fashion-086?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=clothing-ecommerce-main-image",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-kids-fashion/ai-kids-fashion-086/0.jpg"
+    },
+    {
+      "id": "ai-mens-fashion-086",
+      "slug": "ai-mens-fashion-086",
+      "title": "工装机能男装 AI 男装提示词 26",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-mens-fashion-086?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=clothing-ecommerce-main-image",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-mens-fashion/ai-mens-fashion-086/0.jpg"
+    },
+    {
+      "id": "ai-womens-fashion-086",
+      "slug": "ai-womens-fashion-086",
+      "title": "洱海边的少女写真 AI 女装提示词",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-womens-fashion-086?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=clothing-ecommerce-main-image",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-womens-fashion/ai-womens-fashion-086/0-v2.png"
+    },
+    {
+      "id": "ai-kids-fashion-087",
+      "slug": "ai-kids-fashion-087",
+      "title": "幼儿童装 AI 童装提示词 10",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-kids-fashion-087?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=clothing-ecommerce-main-image",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-kids-fashion/ai-kids-fashion-087/0.jpg"
+    },
+    {
+      "id": "ai-mens-fashion-087",
+      "slug": "ai-mens-fashion-087",
+      "title": "商务通勤男装 AI 男装提示词 9",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-mens-fashion-087?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=clothing-ecommerce-main-image",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-mens-fashion/ai-mens-fashion-087/0.jpg"
+    },
+    {
+      "id": "ai-womens-fashion-087",
+      "slug": "ai-womens-fashion-087",
+      "title": "居家甜妹写真 AI 女装提示词",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-womens-fashion-087?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=clothing-ecommerce-main-image",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-womens-fashion/ai-womens-fashion-087/0-v2.png"
+    }
+  ]
+}
